@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "An amazon-style CLI app",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-ashbeck/Bamazon.git"
+  },
+  "author": "Alan W. Ashbeck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-ashbeck/Bamazon/issues"
+  },
+  "homepage": "https://github.com/a-ashbeck/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^2.0.0",
+    "mysql": "^2.12.0"
+  }
+}
